@@ -1,13 +1,6 @@
-#!usr/bin/env/ python3
-import os
+#! /usr/bin/env python3
 
-def check_reboot()(:
-        """Return s True """
-        return os.path.exits("/run/reboot-required")
-
-def main():
-    pass
+print("worked")
 
 
 
-main()
